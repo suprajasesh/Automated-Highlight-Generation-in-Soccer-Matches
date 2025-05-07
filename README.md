@@ -19,3 +19,5 @@ The folder linked below contains all key resources used in this project:
 
 ### Link for final classification model with train and test
 - [classification_model](https://colab.research.google.com/drive/1LNGgALZwJ70AvwIRbJWuMjvLxc3znyaE?authuser=2)
+
+The train and test files for importance scoring model are uploaded as files
