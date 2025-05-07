@@ -14,3 +14,5 @@ The folder linked below contains all key resources used in this project:
 - [Advanced_temporal_model](https://colab.research.google.com/drive/1AInFYvpD7Nk9D1XypTWLb2HEEoskxT9J?usp=sharing)
 - [optimized_lightweight_model](https://colab.research.google.com/drive/10xKPwV-83oGsC6y4jFAF9dnioUI659TJ?usp=sharing)
 - [final_comprehensive_model](https://colab.research.google.com/drive/176l5cTo0nKytfPDMtrBSY-lsQNXt1ruU?usp=sharing)
+- [attention](https://colab.research.google.com/drive/16ck9i4FpHI80-qEU4c8kqSDVl3XxBSs1?usp=sharing)
+- [feature_sensitivity](https://colab.research.google.com/drive/1GQsDUzsZNXoe9sliRKUgDCG3fMrcCGgk?usp=sharing)
