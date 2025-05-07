@@ -17,3 +17,4 @@ The folder linked below contains all key resources used in this project:
 - [attention](https://colab.research.google.com/drive/16ck9i4FpHI80-qEU4c8kqSDVl3XxBSs1?usp=sharing)
 - [feature_sensitivity](https://colab.research.google.com/drive/1GQsDUzsZNXoe9sliRKUgDCG3fMrcCGgk?usp=sharing)
 
+- [classification_model](https://colab.research.google.com/drive/1LNGgALZwJ70AvwIRbJWuMjvLxc3znyaE?authuser=2)
